@@ -1,0 +1,12 @@
+# Clases compiladas de Eclipse
+bin/
+
+# Configuracion local con la contrasena de MySQL (usar db.properties.example como plantilla)
+config/db.properties
+
+# MySQL Connector/J: cada integrante lo descarga y lo copia en lib/
+lib/*.jar
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
