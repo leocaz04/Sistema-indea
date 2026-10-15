@@ -1,4 +1,4 @@
-# Sistema de Gestión para INDEA - Sprint 3 
+# Sistema de Gestión para INDEA 
 
 Equipo 9 - Programación Orientada a Objetos, Universidad Veracruzana.
 
